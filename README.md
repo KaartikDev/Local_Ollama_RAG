@@ -10,6 +10,7 @@ Install Ollama Models
 Ensure the Ollama application is running, then pull the required models from your terminal.
 
 ollama pull llama3.1
+
 ollama pull nomic-embed-text
 
 ### Set Up Python Environment
