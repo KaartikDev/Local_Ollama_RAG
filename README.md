@@ -1,7 +1,8 @@
 ## Locally run RAG with Llama 3.1 and Ollama
 
 ### Prerequisites
-Python 3.8+Ollama
+Python 3.8+
+Ollama
 
 ### How to Run:
 
