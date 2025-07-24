@@ -1,4 +1,4 @@
-## Locally run RAG with Llama 3.1 and Ollama
+## Locally run RAG with Llama 3.1 and Langchain
 
 ### Prerequisites
 Python 3.8+
