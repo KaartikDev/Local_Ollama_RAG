@@ -23,6 +23,7 @@ source venv/bin/activate
 
 ### Install Dependencies
 Install the required Python libraries.
+
 pip install langchain langchain-community langchain-text-splitters langchain-ollama pypdf faiss-cpu ollama jupyter
 ### Add Your Document
 
