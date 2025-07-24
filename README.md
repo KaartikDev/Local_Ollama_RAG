@@ -31,6 +31,10 @@ Create a data folder in the project directory.
 Place your PDF inside the data folder.In test.ipynb, update the file_path variable to point to your PDF.file_path = "data/your_document_name.pdf"
 
 ### Launch and Run
-Start the Jupyter server from your terminal:jupyter notebook
+Start the Jupyter server from your terminal:
+
+jupyter notebook
+
+
 Open test.ipynb in your browser.
 Run the cells sequentially (Shift + Enter) to load the document and ask questions.
