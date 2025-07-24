@@ -1,4 +1,4 @@
-Local RAG with Llama 3.1 and OllamaA local-first RAG pipeline to "chat" with your PDF documents using Llama 3.1.
+Locally run RAG with Llama 3.1 and Ollama
 
 Prerequisites
 Python 3.8+Ollama
@@ -35,6 +35,11 @@ Start the Jupyter server from your terminal:
 
 jupyter notebook
 
-
 Open test.ipynb in your browser.
 Run the cells sequentially (Shift + Enter) to load the document and ask questions.
+
+### Next steps
+Find a more robust prompt augmenting template
+Support Multiple Documents uploads
+Move towards chatbot from single querries
+Explore math behind embedded vector database
