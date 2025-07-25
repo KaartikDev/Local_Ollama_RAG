@@ -42,6 +42,9 @@ Run the cells sequentially (Shift + Enter) to load the document and ask question
 
 ### Next steps
 Find a more robust prompt augmenting template
-Support Multiple Documents uploads
+
+Support multiple documents uploads
+
 Move towards chatbot from single querries
+
 Explore math behind embedded vector database
